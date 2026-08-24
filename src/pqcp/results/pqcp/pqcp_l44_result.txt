@@ -1,0 +1,12 @@
+=== PQCP Search Result: SUCCESS ===
+Length (L): 44
+Target: Exactly 2 nonzero sums with magnitude 4
+Time Elapsed: 8784.64 seconds
+Found by Thread: 0
+Restart Count: 2161, Iteration: 4322019
+
+Sequence A: 11011100101000111101000111101101100111010011
+Sequence B: 11011101010000110111010000100100101110011111
+
+Verification Sums (|rho(a) + rho(b)|):
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
